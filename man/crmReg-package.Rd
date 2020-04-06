@@ -73,7 +73,7 @@ Debruyne, M., Hoppner, S., Serneels, S., and Verdonck, T. (2019). Outlyingness: 
 \emph{DOI:10.1007/s11222-018-9831-5}
 
 Filzmoser, P., Hoppner, S., Ortner, I., Serneels, S., and Verdonck, T. (2020). Cellwise Robust M regression.
-\emph{Computational Statistics and Data Analysis}.
+\emph{Computational Statistics and Data Analysis}, 147, 106944.
 \emph{DOI:10.1016/j.csda.2020.106944}
 }
 
