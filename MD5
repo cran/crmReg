@@ -1,4 +1,4 @@
-d5603e6c217a4e74ee355112f91cb0d3 *DESCRIPTION
+a9b5b59c32ba4f9efef424d99baccb2d *DESCRIPTION
 cf47e756e46f60bce5e051a696bfcfd7 *NAMESPACE
 ea89017c2ceca664a9d9e34fccdd98f4 *R/HampelWeightFunction.R
 1983192076a315c4a83c1d7d8d838843 *R/cellwiseheatmap.R
@@ -11,7 +11,7 @@ c9d49f9ae5af1f21dedb73b605533be6 *R/impute_outlying_cells.R
 09e7dda181a5ba36b101fa7b7d4e25a3 *data/topgear.RData
 97b171aacc965e1ad8d2f7eb05c5e00e *man/cellwiseheatmap.Rd
 7d3159383da115894c68d98a271c020c *man/crm.Rd
-6852a715cb2448339e3e549b7fb9cb85 *man/crmReg-package.Rd
+cd67b7386066b242fcf1244e4c5ef761 *man/crmReg-package.Rd
 40212d512b23503bef4a9e61d2c1e35e *man/daprpr.Rd
 56db9ab365bbfb5fe6a0fbd3f7cd21dc *man/predict.crm.Rd
 76a6c6baa006d531dcec5bdd21626a09 *man/spadimo.Rd

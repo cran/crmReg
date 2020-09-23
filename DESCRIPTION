@@ -1,10 +1,10 @@
 Package: crmReg
 Type: Package
 Title: Cellwise Robust M-Regression and SPADIMO
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
             person(given = "Peter", family = "Filzmoser", role = c("aut")),
-            person(given = "Sebastiaan", family = "Hoppner", role = c("aut", "cre"), email = "sebastiaan.hoppner@kuleuven.be"),
+            person(given = "Sebastiaan", family = "Hoppner", role = c("aut", "cre"), email = "sebastiaan.hoppner@gmail.com"),
             person(given = "Irene", family = "Ortner", role = c("aut")),
             person(given = "Sven", family = "Serneels", role = c("aut")),
             person(given = "Tim", family = "Verdonck", role = c("aut"))
@@ -18,12 +18,12 @@ Author: Peter Filzmoser [aut],
   Irene Ortner [aut],
   Sven Serneels [aut],
   Tim Verdonck [aut]
-Maintainer: Sebastiaan Hoppner <sebastiaan.hoppner@kuleuven.be>
+Maintainer: Sebastiaan Hoppner <sebastiaan.hoppner@gmail.com>
 LazyLoad: yes
 Encoding: UTF-8
 LazyData: false
 NeedsCompilation: yes
 RoxygenNote: 6.1.1
-Packaged: 2020-04-05 19:56:26 UTC; Sebastiaan
+Packaged: 2020-09-23 07:49:59 UTC; Sebastiaan
 Repository: CRAN
-Date/Publication: 2020-04-06 09:10:12 UTC
+Date/Publication: 2020-09-23 08:40:11 UTC
