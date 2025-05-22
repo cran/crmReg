@@ -3,6 +3,7 @@ importFrom("ggplot2", "aes", "element_text", "geom_line", "geom_point",
            "ggplot", "ggtitle", "labs", "theme")
 importFrom("gplots", "colorpanel", "heatmap.2")
 importFrom("graphics", "plot")
+importFrom("methods", "is")
 importFrom("pcaPP", "l1median", "qn")
 importFrom("plyr", "ldply")
 importFrom("robustbase", "lmrob", "ltsReg", "Qn")

@@ -3,7 +3,7 @@ predict.crm <- function (object, newdata = NULL, ...) {
   if (missing(object)) {
     stop("argument 'object' is missing, with no default")
   }
-  if (class(object) != "crm") {
+  if (!is(object, "crm")) {
     stop("argument 'object' must be of class 'crm'")
   }
 

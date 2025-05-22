@@ -60,7 +60,7 @@ crm <- function (formula, data, maxiter = 100, tolerance = 0.01, outlyingness.fa
   ## Check if input arguments are correct
   if (missing(formula)) {
     stop("argument 'formula' is missing, with no default")
-  } else if (class(formula) != "formula") {
+  } else if (!is(formula, "formula")) {
     stop("argument 'formula' must be a formula")
   }
   if (missing(data)) {
@@ -93,7 +93,7 @@ crm <- function (formula, data, maxiter = 100, tolerance = 0.01, outlyingness.fa
   if (outlyingness.factor < 1) {
     stop("argument 'outlyingness.factor' must be larger or equal to 1")
   }
-  if (class(verbose) != "logical") {
+  if (!is(verbose, "logical")) {
     stop("argument 'verbose' must be TRUE or FALSE")
   }
   inputs <- list(formula = formula, maxiter = maxiter, tolerance = tolerance,
